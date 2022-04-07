@@ -148,33 +148,33 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "E637753F-712A-4796-8AFD-D4113E3E6259 - 1ecf1e4873166b52"
+                  uuid = "E637753F-712A-4796-8AFD-D4113E3E6259 - 16cc010e0c40014a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NaviPullRequest.GithubModel.fetchPullRequestsFor(name: Swift.String, pullCompletion: (Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "NaviPullRequest"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/keerthika/Desktop/Desktop/Personal%20Projects/NaviPullRequest/NaviPullRequest/Model/GithubModel.swift"
+                  urlString = "file:///Users/keerthika/Desktop/Desktop/Personal%20Projects/NaviPullRequest%20copy/NaviPullRequest/Model/GithubModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "110"
-                  endingLineNumber = "110"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
                   offsetFromSymbolStart = "401">
                </Location>
                <Location
-                  uuid = "E637753F-712A-4796-8AFD-D4113E3E6259 - 1ecf1e4873166b52"
+                  uuid = "E637753F-712A-4796-8AFD-D4113E3E6259 - 16cc010e0c40014a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NaviPullRequest.GithubModel.fetchPullRequestsFor(name: Swift.String, pullCompletion: (Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "NaviPullRequest"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/keerthika/Desktop/Desktop/Personal%20Projects/NaviPullRequest/NaviPullRequest/Model/GithubModel.swift"
+                  urlString = "file:///Users/keerthika/Desktop/Desktop/Personal%20Projects/NaviPullRequest%20copy/NaviPullRequest/Model/GithubModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "110"
-                  endingLineNumber = "110"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
                   offsetFromSymbolStart = "485">
                </Location>
             </Locations>
@@ -705,6 +705,54 @@
             startingLineNumber = "72"
             endingLineNumber = "72"
             landmarkName = "fetchRequestsToPopulate(reloadCompleted:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD8CDED2-83D7-480F-A244-47D879D122C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaviPullRequestUITests/NaviPullRequestUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "testLaunch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84778BCD-4DAE-4984-9EB2-458E06F0C2C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaviPullRequestUITests/NaviPullRequestUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "249FBD08-DF47-4B1F-9A2D-8801192645E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NaviPullRequestUITests/NaviPullRequestUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "testExample()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
